@@ -1,1 +1,1 @@
-# Hyungkyu Lee's Repository for cs10
+# Hyungkyu Lee's Repository for cs102 at Cooper Union
