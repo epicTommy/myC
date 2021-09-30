@@ -1,1 +1,1 @@
-# Tom Lee myC for cs102
+#Hyungkyu Lee's Repository for cs10
