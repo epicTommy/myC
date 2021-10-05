@@ -1,11 +1,11 @@
 #
-# Makefile for ADD_YOUR_PROGRAM_NAME_HERE
+# Makefile for mean_median_mode
 #
 # The Build Rules for This Program
 #
 # Variables
 CC=gcc
-# ADD YOUR PROGRAM NAME HERE
+# mean_median_mode_calc.c
 APP=myCode
 OBJ=$(APP).o
 EXE=$(APP).exe

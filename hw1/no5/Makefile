@@ -1,11 +1,11 @@
 #
-# Makefile for ADD_YOUR_PROGRAM_NAME_HERE
+# Makefile for string_to_ascii_art.c
 #
 # The Build Rules for This Program
 #
 # Variables
 CC=gcc
-# ADD YOUR PROGRAM NAME HERE
+# string_to_ascii_art.c
 APP=myCode
 OBJ=$(APP).o
 EXE=$(APP).exe
