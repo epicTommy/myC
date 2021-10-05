@@ -1,4 +1,4 @@
-# README.md for hw-1 / problem-1
+# README.md for hw-1 / problem-3
 Hyungkyu Lee
  
 This program takes in 5 integers from the user and prints the mean, median, and mode.
