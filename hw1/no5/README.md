@@ -2,4 +2,4 @@
 
 Hyungkyu Lee
 
-The program accepts a string from a user and prints the and prints the string using has(#)
+The program accepts a string from a user and prints the and prints the string using hash(#)
