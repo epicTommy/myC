@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
-
+#define MAX_LINE 30
+#define NULL_CHAR '\0'
 
 int add(char y[5][12], int z);
 char arr[30][5][12];
@@ -222,10 +223,14 @@ int main(void) {
     {"            "}
   };
   
-  char input[30] = {""};
+  char input[MAX_LINE];
+  for (int i=0;i<MAX_LINE;i++) {
+    input[i] = NULL_CHAR;
+  } 
+
   int inputLen = 0;
   printf("What is your word?:");
-  fgets(input,30,stdin);
+  fgets(input,MAX_LINE,stdin);
 
     //finds how many characters the user inputs
   for(int issa = 0; issa < 30; issa++){

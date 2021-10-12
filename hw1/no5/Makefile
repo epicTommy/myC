@@ -6,7 +6,7 @@
 # Variables
 CC=gcc
 # string_to_ascii_art.c
-APP=myCode
+APP=string_to_ascii_art
 OBJ=$(APP).o
 EXE=$(APP).exe
 LOG=$(APP).log
