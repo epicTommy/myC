@@ -6,7 +6,7 @@
 # Variables
 CC=gcc
 # alphabet_sort.c
-APP=myCode
+APP=alphabet_sort
 OBJ=$(APP).o
 EXE=$(APP).exe
 LOG=$(APP).log

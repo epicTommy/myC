@@ -6,7 +6,7 @@
 # Variables
 CC=gcc
 # mean_median_mode_calc.c
-APP=myCode
+APP=mean_median_mode_calc
 OBJ=$(APP).o
 EXE=$(APP).exe
 LOG=$(APP).log
