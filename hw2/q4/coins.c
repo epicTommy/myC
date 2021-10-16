@@ -32,11 +32,12 @@ int main(void) {
     penny = money / 1;
   }
 
-  printf("%d quarter, %d dime, %d nickel, %d penny", quarter, dime, nickel, penny);
+  printf("%d quarter, %d dime, %d nickel, %d penny \n", quarter, dime, nickel, penny);
 
 
 }
 
+//checks if the money is greater than zero
 int check(int money){
   if(money >= 0){
     return 0;

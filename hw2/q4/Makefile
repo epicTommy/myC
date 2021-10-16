@@ -6,7 +6,7 @@
 # Variables
 CC=gcc
 # coins.c
-APP=myCode
+APP=coins
 OBJ=$(APP).o
 EXE=$(APP).exe
 LOG=$(APP).log

@@ -6,7 +6,7 @@
 # Variables
 CC=gcc
 # rectangle_perimeter.c
-APP=myCode
+APP=rectangle_perimeter
 OBJ=$(APP).o
 EXE=$(APP).exe
 LOG=$(APP).log

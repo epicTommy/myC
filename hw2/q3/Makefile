@@ -6,7 +6,7 @@
 # Variables
 CC=gcc
 # mistakes.c
-APP=myCode
+APP=mistakes
 OBJ=$(APP).o
 EXE=$(APP).exe
 LOG=$(APP).log

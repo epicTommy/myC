@@ -1,12 +1,12 @@
-#
-# Makefile for minToHourMin.c E
+
+# Makefile for minToHourMin.c
 #
 # The Build Rules for This Program
 #
 # Variables
 CC=gcc
 # minToHourMin.c 
-APP=myCode
+APP=minToHourMin
 OBJ=$(APP).o
 EXE=$(APP).exe
 LOG=$(APP).log

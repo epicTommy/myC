@@ -10,7 +10,7 @@ int main(void) {
   int hour = mins / 60;
   int min = mins % 60;
 
-  printf("%d in hours and minutes: %d hours %d minutes", mins, hour, min);
+  printf("%d in hours and minutes: %d hours %d minutes \n", mins, hour, min);
   
   return 0;
 }

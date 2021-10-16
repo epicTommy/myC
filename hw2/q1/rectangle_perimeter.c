@@ -12,6 +12,6 @@ int main(void) {
 
   //calculates the perimeter of the rectangle
   double perimeter = 2 * (width + height);
-  printf("The perimeter is: %.2f", perimeter);
+  printf("The perimeter is: %.2f \n", perimeter);
   return 0;
 }
