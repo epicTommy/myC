@@ -1,11 +1,11 @@
 #
-# Makefile for ADD_YOUR_PROGRAM_NAME_HERE
+# Makefile for coins.c
 #
 # The Build Rules for This Program
 #
 # Variables
 CC=gcc
-# ADD YOUR PROGRAM NAME HERE
+# coins.c
 APP=myCode
 OBJ=$(APP).o
 EXE=$(APP).exe

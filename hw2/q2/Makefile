@@ -1,11 +1,11 @@
 #
-# Makefile for ADD_YOUR_PROGRAM_NAME_HERE
+# Makefile for minToHourMin.c E
 #
 # The Build Rules for This Program
 #
 # Variables
 CC=gcc
-# ADD YOUR PROGRAM NAME HERE
+# minToHourMin.c 
 APP=myCode
 OBJ=$(APP).o
 EXE=$(APP).exe

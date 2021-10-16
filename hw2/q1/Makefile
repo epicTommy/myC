@@ -1,11 +1,11 @@
 #
-# Makefile for ADD_YOUR_PROGRAM_NAME_HERE
+# Makefile for rectangle_perimeter.c
 #
 # The Build Rules for This Program
 #
 # Variables
 CC=gcc
-# ADD YOUR PROGRAM NAME HERE
+# rectangle_perimeter.c
 APP=myCode
 OBJ=$(APP).o
 EXE=$(APP).exe

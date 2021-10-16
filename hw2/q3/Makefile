@@ -1,11 +1,11 @@
 #
-# Makefile for ADD_YOUR_PROGRAM_NAME_HERE
+# Makefile for mistakes.c
 #
 # The Build Rules for This Program
 #
 # Variables
 CC=gcc
-# ADD YOUR PROGRAM NAME HERE
+# mistakes.c
 APP=myCode
 OBJ=$(APP).o
 EXE=$(APP).exe
